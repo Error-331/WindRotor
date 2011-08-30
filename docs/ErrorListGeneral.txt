@@ -1,0 +1,44 @@
+DBConnectors (1nnn-1999)
+========================
+
+jlcSQLiteDBConnector (11nn-1199)
+
+1101
+jlcSQLiteDBConnector error
+File path have a zero length
+User does not provided file path parametre or it has zero length
+
+1102
+jlcSQLiteDBConnector error
+SQL query is not a string
+User does not provided correct sql query
+
+1103
+jlcSQLiteDBConnector error
+SQL query length is less than or equal to zero
+User provided zero length sql query which is not possible
+
+1104
+jlcSQLiteDBConnector error
+SQL query is executing
+Can not redefine sql query while previous statement is executing
+
+1105
+jlcSQLiteDBConnector error
+Current database file is not yet set
+Current database file is not yet set, connection to database is not exist yet
+
+1106
+jlcSQLiteDBConnector error
+Connection to database is not yet set
+There is no active connection to the database
+
+1107
+jlcSQLiteDBConnector error
+Error while executing sql query
+Error while executing sql query
+
+1108
+jlcSQLiteDBConnector error
+User provided invalid column name
+User provided zero length on non string column name

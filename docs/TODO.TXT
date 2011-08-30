@@ -1,0 +1,4 @@
+﻿1. Set dependesis
+2. Check documentation
+3. Check error list
+4. Check all :)
